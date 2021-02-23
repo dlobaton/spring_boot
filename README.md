@@ -1,5 +1,5 @@
 # **spring_boot**
-### We will make a new Java application, where consumer's and provider's communication properties will be designed through a API REST using spring boot
+### Haremos una aplicación Java, donde la comunicación entre proovedor y consumidor estará diseñada a través de una API REST usando Spring Boot.
 #### *First steps:*
 ####  1- descromprimir plantilla spring boot core
 ####  2- crear proyecto en github y subir el proyecto spring boot core descormprimido bajo rama master
