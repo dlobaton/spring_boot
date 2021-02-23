@@ -1,6 +1,6 @@
 # **spring_boot**
 ### Haremos una aplicación Java, donde la comunicación entre proovedor y consumidor estará diseñada a través de una API REST usando Spring Boot.
-#### *First steps:*
+#### *Primeros pasos:*
 ####  1- descromprimir plantilla spring boot core
 ####  2- crear proyecto en github y subir el proyecto spring boot core descormprimido bajo rama master
 ####  3- agregar a santi en github al proyecto https://github.com/santiago-aso
